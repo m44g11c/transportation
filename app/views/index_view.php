@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Moving Company</title>
 
-<link href="css/styles.css" rel="stylesheet" type="text/css" />
+<link href="/public/css/styles.css" rel="stylesheet" type="text/css" />
 
 </head>
 
@@ -16,7 +16,7 @@
 
 <div id="header">
 
-<div id="logo"><a href="#" title="Moving Company" ><img src="images/logo.gif" alt="Moving Company" width="227" height="46" border="0" /></a></div>
+<div id="logo"><a href="#" title="Moving Company" ><img src="/public/images/logo.gif" alt="Moving Company" width="227" height="46" border="0" /></a></div>
 
 <ul>
 <li class="home"><a href="#" title="Home Page">Home</a></li>
@@ -37,8 +37,8 @@
 
 <div id="mainimg">
 
-<div id="presentation"><a href="#"><img src="images/btn_presentation.gif" alt="View presentation" width="238" height="15" border="0" /></a></div>
-<div id="call"><img src="images/call.gif" alt="" width="213" height="70" /></div>
+<div id="presentation"><a href="#"><img src="/public/images/btn_presentation.gif" alt="View presentation" width="238" height="15" border="0" /></a></div>
+<div id="call"><img src="/public/images/call.gif" alt="" width="213" height="70" /></div>
 </div>
 
 <!-- CONTENT -->
@@ -72,7 +72,7 @@
 
 <div id="welcome">
 <h2></h2>
-<img src="images/img_welcome.jpg" alt="" width="120" height="88" />
+<img src="/public/images/img_welcome.jpg" alt="" width="120" height="88" />
 
 <p class="bluetxt">This is a free XHTML/CSS-based website template designed by <a href="http://www.templatesland.com">TemplatesLand.com</a></p>
 
@@ -118,6 +118,6 @@ Copyright &copy; Your Company Name. Designed by<a href="http://www.templatesland
 
 
 </div>
-<div class="sponsor">Sponsored by<a href="http://www.wix.com/free/website?utm_campaign=templateyes&amp;experiment_id=templateyesexp" title="Free Flash Templates" target="_blank"><img src="images/banner-728x90.jpg" alt="Free Flash Templates" width="728" height="90" border="0" /></a></div>
+<div class="sponsor">Sponsored by<a href="http://www.wix.com/free/website?utm_campaign=templateyes&amp;experiment_id=templateyesexp" title="Free Flash Templates" target="_blank"><img src="/public/images/banner-728x90.jpg" alt="Free Flash Templates" width="728" height="90" border="0" /></a></div>
 </body>
 </html>
