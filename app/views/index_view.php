@@ -19,7 +19,7 @@
           </div>
         </div>
         
-        <h1 class="text-center">УСЛУГИ</h1>
+        <h1 class="text-center" id="contacts">УСЛУГИ</h1>
         <div class="row">
           <div class="col-md-4 service">
               <h2>Декларирование</h2>
@@ -37,7 +37,7 @@
 
         <div id="footer" class="row">
           <div class="text-center">
-            <div><a href="/about">О нас</a> &nbsp;•&nbsp; <a href="/contacts">Контакты</a> &nbsp;&nbsp;&nbsp;© 2016 «deleloped by M4g1c and Loki» - Все права защищены.
+            <div><a href="#">Главная</a> &nbsp;•&nbsp; <a href="#about">О нас</a> &nbsp;•&nbsp; <a href="#contacts">Контакты</a> &nbsp;&nbsp;&nbsp;© 2016 «deleloped by M4g1c and oOLokiOo» - Все права защищены.
             </div>
           </div>
         </div>
