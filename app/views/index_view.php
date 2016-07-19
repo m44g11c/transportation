@@ -1,3 +1,5 @@
+<?php require_once '_header_view.php'; ?>
+
         <div class="row">
           <div id="main" class="col-sm-12  col-md-12  col-lg-12">
           </div>
@@ -39,3 +41,5 @@
             </div>
           </div>
         </div>
+
+<?php require_once '_footer_view.php'; ?>
