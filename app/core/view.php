@@ -11,8 +11,7 @@
           extract($data);
         }
         */
-        
-        include 'application/views/'.$template_view;
+        include ROOT.'/app/views/'.$template_view;
       }
     }
 
