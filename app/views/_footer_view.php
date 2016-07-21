@@ -1,3 +1,10 @@
+      <div id="footer" class="row">
+        <div class="text-center">
+          <div><a href="#">Главная</a> &nbsp;•&nbsp; <a href="index.php/about">О нас</a> &nbsp;•&nbsp; <a href="index.php/contact">Контакты</a> &nbsp;&nbsp;&nbsp;© 2016 «deleloped by M4g1c and oOLokiOo» - Все права защищены.
+          </div>
+        </div>
+      </div>
+
       </div><!-- /.container -->
 
     <!-- Bootstrap core JavaScript
